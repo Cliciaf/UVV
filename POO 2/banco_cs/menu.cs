@@ -5,17 +5,23 @@ class Menu{
     public Menu(){
         
     }
+    
     public void Display(){
         int select;
         int iniciar=0;
+        
         Conta conta = new Conta();
         Console.WriteLine("Bem vindo ao menu do banco!\n");
         
         Console.WriteLine("Dê um nome para sua conta:\n");
         conta.Nome = Console.ReadLine();
         Console.Clear();
-        while(iniciar == 0){
-            do{
+        
+        while(iniciar == 0)
+        {
+            
+            do
+            {
             Console.WriteLine("Escolha um dos números abaixo, caso escolha um diferente o menu reiniciará.\n");
             Console.WriteLine(" 1 - Depositar\n 2 - Sacar \n 3 - Extrato \n 0 - Sair");
             select = Convert.ToInt16(Console.ReadLine());    
@@ -29,7 +35,8 @@ class Menu{
             
             double value;
             
-            switch(select){
+            switch(select)
+            {
                 case 0:
                     Console.WriteLine("Saindo...\n");
                     break;
