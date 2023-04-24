@@ -1,0 +1,11 @@
+C:\DevC\GUIExemplo01\GUIExemplo01\bin\Debug\GUIExemplo01.exe.config
+C:\DevC\GUIExemplo01\GUIExemplo01\bin\Debug\GUIExemplo01.exe
+C:\DevC\GUIExemplo01\GUIExemplo01\bin\Debug\GUIExemplo01.pdb
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.csproj.AssemblyReference.cache
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.csproj.SuggestedBindingRedirects.cache
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.Form1.resources
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.Properties.Resources.resources
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.csproj.GenerateResource.cache
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.csproj.CoreCompileInputs.cache
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.exe
+C:\DevC\GUIExemplo01\GUIExemplo01\obj\Debug\GUIExemplo01.pdb
