@@ -1,0 +1,11 @@
+C:\DevC\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe.config
+C:\DevC\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe
+C:\DevC\jogodavelha\jogodavelha\bin\Debug\jogodavelha.pdb
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.AssemblyReference.cache
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.SuggestedBindingRedirects.cache
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Form1.resources
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Properties.Resources.resources
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.GenerateResource.cache
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.CoreCompileInputs.cache
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.exe
+C:\DevC\jogodavelha\jogodavelha\obj\Debug\jogodavelha.pdb
