@@ -1,0 +1,11 @@
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.csproj.AssemblyReference.cache
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.csproj.SuggestedBindingRedirects.cache
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.Form1.resources
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.Properties.Resources.resources
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.csproj.GenerateResource.cache
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.csproj.CoreCompileInputs.cache
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\bin\Debug\Agenda_telefonica.exe.config
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\bin\Debug\Agenda_telefonica.exe
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\bin\Debug\Agenda_telefonica.pdb
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.exe
+C:\Users\alunolab10\source\repos\Agenda_telefonica\Agenda_telefonica\obj\Debug\Agenda_telefonica.pdb
